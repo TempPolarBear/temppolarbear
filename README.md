@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="left">Technology</h1>
+<h1 align="left">my skills</h1>
 
 ###
 
