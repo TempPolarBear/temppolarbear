@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎨 Frontend & UX/UI Developer<br>💻 HTML, CSS & Bootstrap <br>📚 Learning JS <br>✨ Creating projects & planning more</p>
+<p align="left">🎨 Intern Frontend Developer & Junior UX/UI Designer<br>💻 HTML, CSS & Bootstrap <br>📚 Learning JS <br>✨ Creating projects & planning more</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="left">my skills</h1>
+<h1 align="left">My skills</h1>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h3 align="center">My statistics</h3>
+<h2 align="center">My statistics</h2>
 
 ###
 
