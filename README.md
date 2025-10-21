@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h1 align="left">Social Media</h1>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="left">My statistics</h3>
+<h1 align="left">My statistics</h1>
 
 ###
 
