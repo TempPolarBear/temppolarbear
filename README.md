@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎨 Intern Frontend Developer & Junior UX/UI Designer<br>💻 HTML, CSS & Bootstrap <br>📚 Learning JS <br>✨ Creating projects & planning more</p>
+<p align="left">🎨 Intern Frontend Developer & Intern UI/UX Designer<br>💻 HTML, CSS & Bootstrap <br>📚 Learning JS <br>✨ Creating projects & planning more</p>
 
 ###
 
