@@ -3,7 +3,7 @@
 ###
 
 
-<h1 align="left">👤 My name Valeriia</h1>
+<h1 align="left" style="border-bottom: 0">👤 My name Valeriia</h1>
 
 ###
 
