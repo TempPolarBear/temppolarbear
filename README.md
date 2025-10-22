@@ -1,12 +1,11 @@
 <img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJldDI1Z25jcTBkbmRjMDRrb21icnJjeG9hamRuMThiOThsNG44MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
-###
 
 
 <h1 align="left" style="border-bottom: 0">👤 My name Valeriia</h1>
 <p align="left">🎨 Intern Frontend Developer & Intern UI/UX Designer<br>💻 HTML, CSS & Bootstrap<br>📚 Learning JS<br>✨ Creating projects & planning more</p>
 
-###
+
 
 <h1 align="left">🌐 Social Media</h1>
 
