@@ -4,9 +4,6 @@
 
 
 <h1 align="left" style="border-bottom: 0">👤 My name Valeriia</h1>
-
-###
-
 <p align="left">🎨 Intern Frontend Developer & Intern UI/UX Designer<br>💻 HTML, CSS & Bootstrap<br>📚 Learning JS<br>✨ Creating projects & planning more</p>
 
 ###
