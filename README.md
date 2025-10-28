@@ -16,11 +16,8 @@
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="LinkedIn" />
     </a>
     <a href="https://discord.com/users/557178229010464829" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
-    </a>
-    <a href="https://discord.com/users/557178229010464829" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="slack logo"  />
-    </a>   
+        <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" height="25" alt="Discord" />
+    </a> 
 </div>
 
 ###
