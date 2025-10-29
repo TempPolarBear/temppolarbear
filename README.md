@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/valeriia-kuznetsova/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="LinkedIn" />
     </a>
-    <a href="https://discord.com/users/557178229010464829" target="_blank">
+    <a href="https://discord.com/users/temppolarbear" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" height="25" alt="Discord" />
     </a> 
 </div>
