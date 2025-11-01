@@ -2,7 +2,14 @@
 
 
 
-<h1 align="left" style="border-bottom: 0">👤 My name Valeriia</h1>
+<div id="user-content-toc">
+  <ul align="left" style="list-style: none;">
+    <summary>
+      <h1 align="left" style="border-bottom: 0">👤 My name Valeriia</h1>
+    </summary>
+  </ul>
+</div>
+
 <p align="left">🎨 Intern Frontend Developer & Intern UI/UX Designer<br>💻 HTML, CSS & Bootstrap<br>📚 Learning JS<br>✨ Creating projects & planning more</p>
 
 
