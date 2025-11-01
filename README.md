@@ -6,8 +6,14 @@
 <p align="left">🎨 Intern Frontend Developer & Intern UI/UX Designer<br>💻 HTML, CSS & Bootstrap<br>📚 Learning JS<br>✨ Creating projects & planning more</p>
 
 
+<div id="user-content-toc">
+  <ul align="left" style="list-style: none;">
+    <summary>
+      <h1 align="left">🌐 Social Media</h1>
+    </summary>
+  </ul>
+</div>
 
-<h1 align="left">🌐 Social Media</h1>
 
 ###
 
