@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<p align="left">🎨 Intern Frontend Developer & Intern UI/UX Designer<br>💻 HTML, CSS & Bootstrap<br>📚 Learning JS<br>✨ Creating projects & planning more</p>
+<p align="left">🎨 Intern Frontend Developer & Intern UI/UX Designer<br>💻 HTML, CSS & Bootstrap<br>📚 Learning JS<br>✨ Creating projects & planning more<br>🌱 Open to collaboration and new opportunities </p>
 
 
 <div id="user-content-toc">
