@@ -97,8 +97,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TempPolarBear&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempPolarBear&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TempPolarBear&show_icons=true" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempPolarBear&layout=compact" alt="languages graph" />
 </div>
 
 ###
