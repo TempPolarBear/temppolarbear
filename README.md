@@ -92,10 +92,18 @@
 
 ###
 
+<h1 align="left">📊 GitHub Stats</h1>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/TempPolarBear/TempPolarBear/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/TempPolarBear/TempPolarBear/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h1 align="left">👁️ GitHub Profile Views</h1>
 
 ###
 
@@ -105,11 +113,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TempPolarBear/TempPolarBear/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TempPolarBear/TempPolarBear/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TempPolarBear/TempPolarBear/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<h1 align="left">💿 Spotify Recent</h1>
 
 ###
 
