@@ -113,14 +113,3 @@
 
 ###
 
-<h1 align="left">💿 Spotify Recent</h1>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31mf566di2zkgu37ocgphd47pjsu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mf566di2zkgu37ocgphd47pjsu&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
